@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center"><b>BluAimz</b></h1>
   <br>
-  <code align=center>› Desenvolvedor há cerca de 1 ano e meio.</code>
+  <code align=center>› Developer for about 1 year and a half.</code>
   <br>
   <br>
   <a href="https://github.com/BluAimz" alt="BluAimz"><img src="https://skillicons.dev/icons?i=js,html,css,discord,mongodb,github&theme=dark"></a>
