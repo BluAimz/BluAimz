@@ -21,6 +21,7 @@
   </details> 
   <br>
   <a href="https://discord.com/users/736887813974392844" alt="BluAimz" align="center"><img src="https://lanyard.cnrad.dev/api/736887813974392844"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/?username=BluAimz&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=539BF5&hide_title=true&count_private=true" align="center">
   <br>
   <code align=center>› Email, Zona, Discord e Twitter no meu perfil!</code>
 
