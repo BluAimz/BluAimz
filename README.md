@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><b>BluAimz</b></h1>
+  <h1 align="center"><b>Martim</b></h1>
   <br>
   <code align=center>› Developer for about 1 year and a half.</code>
   <br>
